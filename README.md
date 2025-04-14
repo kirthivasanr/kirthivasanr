@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **RealScan AI**
 
-- 🌱 I’m currently learning **DSA(Python),Machine Learning,LLMs**
+- 🌱 I’m currently learning **DSA(Python), Machine Learning, LLMs**
 
 - 👨‍💻 All of my projects are available at [https://kirthivasanr.github.io/Myportfolio/](https://kirthivasanr.github.io/Myportfolio/)
 
-- 💬 Ask me about **Tech**
+- 💬 Ask me about **Tech, Business**
 
 - 📫 How to reach me **kirthivasan09@gmail.com**
 
