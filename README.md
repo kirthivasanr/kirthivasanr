@@ -65,7 +65,7 @@
 
 ###
 
-<br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/Kirthivasanr/Kirthivasanr/output/snake.svg" alt="Snake animation" />
 
