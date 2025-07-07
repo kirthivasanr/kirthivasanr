@@ -1,4 +1,4 @@
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGd1czVyYnYzaTdmY3g3Ym9wNzBueXIycG00djBhNnVmenFtOTBmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gCPvobhbCxitDmuBkM/giphy.gif
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/gCPvobhbCxitDmuBkM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SuperRareBears-gCPvobhbCxitDmuBkM">via GIPHY</a></p>
 # 💫 About Me:
 I am currently working on Lawyer Ai<br>Looking to collaborate on Full Stack projects<br>Currently learning DSA, Machine learning<br>Ask me about Tech<br>
 
