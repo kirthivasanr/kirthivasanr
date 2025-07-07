@@ -19,4 +19,4 @@ I am currently working on Lawyer Ai<br>Looking to collaborate on Full Stack proj
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/gCPvobhbCxitDmuBkM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SuperRareBears-gCPvobhbCxitDmuBkM">via GIPHY</a></p>
+
