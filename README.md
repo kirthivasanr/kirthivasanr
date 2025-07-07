@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Lawyer Ai<br>Looking to collaborate on Lawyer ai<br>Currently learning DSA, Machine learning<br>Ask me about Tech<br>
+I am currently working on Lawyer Ai<br>Looking to collaborate on Full Stack projects<br>Currently learning DSA, Machine learning<br>Ask me about Tech<br>
 
 
 ## 🌐 Socials:
