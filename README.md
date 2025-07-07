@@ -1,4 +1,4 @@
-![me]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUzaTExaGE3Mm5tdTk5OGw0eGpyeDBkMGFhend1ZnljZHg4OHY1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif))
+![me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUzaTExaGE3Mm5tdTk5OGw0eGpyeDBkMGFhend1ZnljZHg4OHY1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 # 💫 About Me:
 I am currently working on Lawyer Ai<br>Looking to collaborate on Full Stack projects<br>Currently learning DSA, Machine learning<br>Ask me about Tech<br>
 
