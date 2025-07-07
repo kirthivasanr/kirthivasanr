@@ -1,4 +1,4 @@
-![me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUzaTExaGE3Mm5tdTk5OGw0eGpyeDBkMGFhend1ZnljZHg4OHY1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+![me](<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>)
 # 💫 About Me:
 I am currently working on Lawyer Ai<br>Looking to collaborate on Full Stack projects<br>Currently learning DSA, Machine learning<br>Ask me about Tech<br>
 
