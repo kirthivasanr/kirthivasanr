@@ -1,72 +1,63 @@
-<h2 align="left">Hi 👋! My name is Kirthivasan M R and I'm a Full Stack Developer, from Chennai,Tamil Nadu</h2>
+# 👋 Hi, I'm Kirthivasan M R
 
-###
+A passionate **Full-Stack Developer** and **Tech Enthusiast** from Chennai, India 🇮🇳. I specialize in building impactful web apps, smart hardware integrations, and AI-powered solutions. Whether it’s a Firebase-backed web platform or a Raspberry Pi-based sensor system, I love turning ideas into real, working prototypes.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kirthivasanr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kirthivasanr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 My Tech Stack
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z4ZGU3bzQwOGVkNmVyNGVkeGs5MDFvbGllOHBkcnZrZ2p4ZnMzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+**Frontend**
+- HTML5 • CSS3 • JavaScript
+- Tailwind CSS • Bootstrap • React
 
-###
+**Backend & Logic**
+- PHP • Python • C • Java
+- Node.js • Express.js • MySQL • PostgreSQL
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-</div>
+**Tools & Platforms**
+- Git • Firebase • Figma • Arduino • Raspberry Pi
+- OpenCV • MediaPipe • Tkinter • VS Code
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🧠 Projects I'm Proud Of
 
-###
+### 📚 [Digital Library Website](https://github.com/kirthivasanr/Digital-Library-Website)
+A fully functional PHP/MySQL library system with login portals for admins and students, book upload/management, and transaction tracking.
 
+### 🧠 [Smart Notes AI](https://github.com/kirthivasanr/Smart-Notes-AI)
+A full-stack app that processes class notes using OpenAI API to generate summaries, MCQs, important questions — and exports them as PDF.
 
+### 🥘 [AI-Powered Recipe Generator](https://github.com/kirthivasanr/Recipe-Gen)
+Enter your ingredients, and get a complete recipe + YouTube suggestions using Python, Flask, and AI APIs.
 
-<img src="https://raw.githubusercontent.com/Kirthivasanr/Kirthivasanr/output/snake.svg" alt="Snake animation" />
+### 🧠 [Offline Malpractice Detection](https://github.com/kirthivasanr/Malpractice-Detector)
+A desktop tool using OpenCV and MediaPipe to track eye/head movement for exam proctoring. Built with Python + Tkinter.
 
-###
+### 🦴 [TinDog Website](https://github.com/kirthivasanr/TinDog-Website)
+A fun, responsive landing page for dog dating, built using HTML, CSS, Bootstrap.
+
+### 🚧 [Obstacle Detector for Blind](https://github.com/kirthivasanr/Obstacle-Detector)
+Arduino-powered smart alert system using ultrasonic sensors and buzzers to help visually impaired people detect obstacles.
+
+---
+
+## 📈 GitHub Stats
+
+![Kirthivasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirthivasanr&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Portfolio & Contact
+
+📎 **Portfolio:** [kirthivasanr.github.io/Myportfolio](https://kirthivasanr.github.io/Myportfolio)
+
+📧 **Email:** kirthivasanmr@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/kirthivasanr](https://linkedin.com/in/kirthivasanr)
+
+---
+
+> “Code is poetry. I write mine with logic, curiosity, and a bit of caffeine.”
+
+⭐️ If you like what I do, feel free to follow me and star some projects!
+
