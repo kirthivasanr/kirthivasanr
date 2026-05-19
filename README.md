@@ -84,10 +84,4 @@ class Kirthivasan:
 
 </div>
 
----
 
-<div align="center">
-
-*If something I've built has been useful to you, a ⭐ goes a long way — thank you!*
-
-</div>
