@@ -1,65 +1,110 @@
-<h2 align="left">Hi, I am Kirthivasan M R</h2>
-<p>I’m a backend-focused developer passionate about building real-world systems and intelligent applications. I work with Python, cloud technologies, and embedded hardware, and I enjoy turning complex ideas into practical, scalable solutions. Currently focused on backend engineering, system design, and applied machine learning.</p> 
+<div align="center">
 
+<h1>Kirthivasan M R</h1>
+<p><strong>Backend Engineer</strong> &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Applied ML &nbsp;·&nbsp; Cloud</p>
 
-
-<h2 align="left">Tech Stacks</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
 
-
-<h2 align="left">GitHub Stats</h2>
-
-
-![](https://github-readme-stats.vercel.app/api?username=Kirthivasanr&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kirthivasanr&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthivasanr&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-###
-<h2 align="left">Find me on</h2>
-<div align="left">
-    <a href="https://www.linkedin.com/in/kirthivasan-m-r-2b7a6932a/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    </a>
-    <a href="mailto:kirthivasan09@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    </a>
-    <a href="https://discord.gg/kirthivasan_911" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-    </a>
-    <a href="https://instagram.com/kirthivasan.__" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="insta logo"  />
-    </a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Applied+ML+Explorer+%F0%9F%A4%96;Cloud+%26+Embedded+Systems+Dev+%E2%9A%A1" alt="Typing SVG" />
+  </a>
 </div>
 
-###
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kirthivasanr&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Kirthivasanr?style=for-the-badge&color=0d1117&labelColor=0d1117&label=FOLLOWERS" />
+</div>
+
+---
+
+## About Me
+
+```python
+class Kirthivasan:
+    name       = "Kirthivasan M R"
+    role       = "Backend Engineer"
+    location   = "India"
+    focus      = ["Backend Engineering", "System Design", "Scalable Solution" ]
+    languages  = ["Python", "JavaScript", "SQL"]
+    cloud      = ["AWS", "Linux"]
+    currently  = "Building scalable systems & intelligent applications"
+    ask_me     = "Backend architecture, APIs, cloud infra, or ML pipelines"
+    fun_fact   = "I turn complex ideas into practical, scalable solutions ⚡"
+```
+
+---
+
+## Tech Stack
+
+### 🖥️ Backend & Core
+<div>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
+</div>
+
+### ☁️ Cloud & DevOps
+<div>
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+</div>
+
+### 🤖 ML & Data
+<div>
+  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458" />
+</div>
+
+### 🎨 Frontend & Design
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirthivasanr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthivasanr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kirthivasanr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirthivasanr&theme=github-dark&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" />
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Kirthivasan+M+R)](https://www.linkedin.com/in/kirthivasan-m-r-2b7a6932a/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=kirthivasan09)](mailto:kirthivasan09@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2&label=kirthivasan_911)](https://discord.gg/kirthivasan_911)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&label=kirthivasan.__)](https://instagram.com/kirthivasan.__)
+
+</div>
+
+---
+
+<div align="center">
+
+*If something I've built has been useful to you, a ⭐ goes a long way — thank you!*
+
+</div>
